@@ -92,10 +92,10 @@ PUMC01	sarslike	AY350750	?	?	Na	genome	Unknown	SARS-CoV	?	?	Zou et al	https://ww
 PUMC02	sarslike	AY357075	?	?	Na	genome	Unknown	SARS-CoV	?	?	Zou et al	https://www.ncbi.nlm.nih.gov/nuccore/AY357075	Direct Submission	Submitted (31-JUL-2003) Biochemistry and Molecular Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, 5# Dong Dan San Tiao, Beijing 100005, P.R. China	?
 PUMC03	sarslike	AY357076	?	?	Na	genome	Unknown	SARS-CoV	?	?	Zou et al	https://www.ncbi.nlm.nih.gov/nuccore/AY357076	Direct Submission	Submitted (31-JUL-2003) Biochemistry and Molecular Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, 5# Dong Dan San Tiao, Beijing 100005, P.R. China	?
 recSARS_CoV_HKU_39849	sarslike	JN854286	2003-04-16	Europe	United Kingdom	genome	Unknown	SARS-CoV	?	?	van den Worm et al	https://www.ncbi.nlm.nih.gov/nuccore/JN854286	Reverse genetics of SARS-related coronavirus using vaccinia virus-based recombination	PLoS ONE 7 (3), E32857 (2012)	?
-Rf1	sarslike	DQ412042	?	?	Na	genome	Bat	SARS-like CoV	?	?	Li et al	https://www.ncbi.nlm.nih.gov/nuccore/DQ412042	Bats are natural reservoirs of SARS-like coronaviruses	Science 310 (5748), 676-679 (2005)	?
+Rf1	sarslike	DQ412042	2004	China	China	genome	Bat	SARS-like CoV	?	?	Li et al	https://www.ncbi.nlm.nih.gov/nuccore/DQ412042	Bats are natural reservoirs of SARS-like coronaviruses	Science 310 (5748), 676-679 (2005)	?
 Rf4092	sarslike	KY417145	2012-09-18	China	China	genome	Bat	SARS-like CoV	?	?	Hu et al	https://www.ncbi.nlm.nih.gov/nuccore/KY417145	Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus	PLoS Pathog. 13 (11), e1006698 (2017)	?
-Rm1	sarslike	DQ412043	?	?	Na	genome	Bat	SARS-like CoV	?	?	Li et al	https://www.ncbi.nlm.nih.gov/nuccore/DQ412043	Bats are natural reservoirs of SARS-like coronaviruses	Science 310 (5748), 676-679 (2005)	?
-Rp3	sarslike	DQ071615	?	China	China	genome	Bat	SARS-like CoV	?	?	Li et al	https://www.ncbi.nlm.nih.gov/nuccore/DQ071615	Bats are natural reservoirs of SARS-like coronaviruses	Science 310 (5748), 676-679 (2005)	?
+Rm1	sarslike	DQ412043	2004	China	China	genome	Bat	SARS-like CoV	?	?	Li et al	https://www.ncbi.nlm.nih.gov/nuccore/DQ412043	Bats are natural reservoirs of SARS-like coronaviruses	Science 310 (5748), 676-679 (2005)	?
+Rp3	sarslike	DQ071615	2004	China	China	genome	Bat	SARS-like CoV	?	?	Li et al	https://www.ncbi.nlm.nih.gov/nuccore/DQ071615	Bats are natural reservoirs of SARS-like coronaviruses	Science 310 (5748), 676-679 (2005)	?
 Rs672	sarslike	FJ588686	2006-XX-XX	China	China	genome	Bat	SARS-like CoV	?	?	Yuan et al	https://www.ncbi.nlm.nih.gov/nuccore/FJ588686	Intraspecies diversity of SARS-like coronaviruses in Rhinolophus sinicus and its implications for the origin of SARS coronaviruses in humans	J. Gen. Virol. 91 (PT 4), 1058-1062 (2010)	?
 Rs3367	sarslike	KC881006	2012-03-19	China	China	genome	Bat	SARS-like CoV	?	?	Ge et al	https://www.ncbi.nlm.nih.gov/nuccore/KC881006	Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor	Nature 503, 535-538 (2013)	?
 Rs4081	sarslike	KY417143	2012-09-18	China	China	genome	Bat	SARS-like CoV	?	?	Hu et al	https://www.ncbi.nlm.nih.gov/nuccore/KY417143	Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus	PLoS Pathog. 13 (11), e1006698 (2017)	?
@@ -190,14 +190,22 @@ ZMY_1	sarslike	AY351680	?	?	Na	genome	Unknown	SARS-CoV	?	?	Zeng et al	https://ww
 ZS_A	sarslike	AY394997	?	?	Na	genome	Unknown	SARS-CoV	?	?	?	https://www.ncbi.nlm.nih.gov/nuccore/AY394997	From independent foci of epidemic outbreak to large genomic alteration in late phase viruses: evolution of the SARS-coronavirus	Unpublished	?
 ZS_B	sarslike	AY394996	?	?	Na	genome	Unknown	SARS-CoV	?	?	?	https://www.ncbi.nlm.nih.gov/nuccore/AY394996	From independent foci of epidemic outbreak to large genomic alteration in late phase viruses: evolution of the SARS-coronavirus	Unpublished	?
 ZS_C	sarslike	AY395003	2003-XX-XX	?	Na	genome	Human	SARS-CoV	?	?	?	https://www.ncbi.nlm.nih.gov/nuccore/AY395003	From independent foci of epidemic outbreak to large genomic alteration in late phase viruses: evolution of the SARS-coronavirus	Unpublished	?
-bat/Yunnan/RaTG13/2013	sarslike	EPI_ISL_402131	2013-07-24	China	China	genome	Bat	SARS-like CoV	?	?	Zhu et al	?	?	?	?
+bat/Yunnan/RaTG13/2013	sarslike	MN996532	2013-07-24	China	China	genome	Bat	SARS-like CoV	?	?	Zhu et al	https://www.ncbi.nlm.nih.gov/nuccore/MN996532	?	?	?
 bat/Yunnan/RmYN01/2019	sarslike	EPI_ISL_412976	2019-06-25	China	China	genome	Bat	SARS-like CoV	?	?	Zhou et al	?	?	?	?
 bat/Yunnan/RmYN02/2019	sarslike	EPI_ISL_412977	2019-06-25	China	China	genome	Bat	SARS-like CoV	?	?	Zhou et al	?	?	?	?
 pangolin/Guangdong/1/2020	sarslike	EPI_ISL_410721	2020	China	China	genome	Pangolin	SARS-like CoV	?	?	Shen et al	?	?	?	?
 pangolin/Guangdong/P2S/2019	sarslike	EPI_ISL_410544	2019	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	?	?	?	?
-pangolin/Guangxi/P1E/2017	sarslike	EPI_ISL_410539	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	?	?	?	?
-pangolin/Guangxi/P2V/2017	sarslike	EPI_ISL_410542	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	?	?	?	?
-pangolin/Guangxi/P3B/2017	sarslike	EPI_ISL_410543	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	?	?	?	?
-pangolin/Guangxi/P4L/2017	sarslike	EPI_ISL_410538	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	?	?	?	?
-pangolin/Guangxi/P5E/2017	sarslike	EPI_ISL_410541	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	?	?	?	?
-pangolin/Guangxi/P5L/2017	sarslike	EPI_ISL_410540	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	?	?	?	?
+pangolin/Guangxi/P1E/2017	sarslike	MT040334	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	https://www.ncbi.nlm.nih.gov/nuccore/MT040334	?	?	?
+pangolin/Guangxi/P2V/2017	sarslike	MT072864	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	https://www.ncbi.nlm.nih.gov/nuccore/MT072864	?	?	?
+pangolin/Guangxi/P3B/2017	sarslike	MT072865	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	https://www.ncbi.nlm.nih.gov/nuccore/MT072865	?	?	?
+pangolin/Guangxi/P4L/2017	sarslike	MT040333	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	https://www.ncbi.nlm.nih.gov/nuccore/MT040333	?	?	?
+pangolin/Guangxi/P5E/2017	sarslike	MT040336	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	https://www.ncbi.nlm.nih.gov/nuccore/MT040336	?	?	?
+pangolin/Guangxi/P5L/2017	sarslike	MT040335	2017	China	China	genome	Pangolin	SARS-like CoV	?	?	Jiang et al	https://www.ncbi.nlm.nih.gov/nuccore/MT040335	?	?	?
+pangolin/Guangdong/MP789/2019	sarslike	MT121216	2019	China	China	genome	Pangolin	SARS-like CoV	?	?	Liu et al	https://www.ncbi.nlm.nih.gov/nuccore/	?	?	?
+bat/Cambodia/RShSTT200/2010	sarslike	EPI_ISL_852605	2010	Southeast Asia	Cambodia	genome	Bat	SARS-like CoV	?	?	Hul et al	?	?	?	?
+bat/Cambodia/RShSTT182/2010	sarslike	EPI_ISL_852604	2010	Southeast Asia	Cambodia	genome	Bat	SARS-like CoV	?	?	Hul et al	?	?	?	?
+bat/Thailand/RacCS203/2020	sarslike	MW251308	2020	Southeast Asia	Thailand	genome	Bat	SARS-like CoV	?	?	Wacharapluesadee et al	https://www.ncbi.nlm.nih.gov/nuccore/MW251308	?	?	?
+bat/Thailand/RacCS271/2020	sarslike	MW251312	2020	Southeast Asia	Thailand	genome	Bat	SARS-like CoV	?	?	Wacharapluesadee et al	https://www.ncbi.nlm.nih.gov/nuccore/MW251312	?	?	?
+bat/Thailand/RacCS264/2020	sarslike	MW251311	2020	Southeast Asia	Thailand	genome	Bat	SARS-like CoV	?	?	Wacharapluesadee et al	https://www.ncbi.nlm.nih.gov/nuccore/MW251311	?	?	?
+bat/Thailand/RacCS253/2020	sarslike	MW251310	2020	Southeast Asia	Thailand	genome	Bat	SARS-like CoV	?	?	Wacharapluesadee et al	https://www.ncbi.nlm.nih.gov/nuccore/MW251310	?	?	?
+bat/Thailand/RacCS224/2020	sarslike	MW251309	2020	Southeast Asia	Thailand	genome	Bat	SARS-like CoV	?	?	Wacharapluesadee et al	https://www.ncbi.nlm.nih.gov/nuccore/MW251309	?	?	?
